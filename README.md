@@ -18,7 +18,7 @@ A image folder is supplied for your  convenience.
    subsitute [ ]s with your desired arguements
    
 3. Too see complete lits of arguements, run:
-  ```bash
+   ```bash
 
    python matchit.py -h 
    ```
