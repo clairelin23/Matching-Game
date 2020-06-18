@@ -9,7 +9,7 @@ A image folder is supplied for your  convenience.
 ## How To Run
 1. Download the repository and cd into it
 
-2.In the terminal, run: 
+2. In the terminal, run: 
    ```bash
 
    python matchit.py [blue, green, or magenta]  [image_folder_name]
